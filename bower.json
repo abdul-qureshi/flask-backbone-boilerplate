@@ -1,0 +1,27 @@
+{
+  "name": "flask-backbone-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/abdul-qureshi/flask-backbone-boilerplate",
+  "authors": [
+    "Peter <liu.peter.j@gmail.com>",
+    "Abdul <abdulhqureshi@gmail.com>"
+  ],
+  "description": "sex",
+  "main": "main.py",
+  "keywords": [
+    "boiler"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2"
+  }
+}
