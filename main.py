@@ -12,7 +12,7 @@ env.load_path = [
 ]
 
 env.register(
-    'js_all',
+    'js_view',
     assets.Bundle(
         'jquery/dist/jquery.min.js',
         assets.Bundle(
